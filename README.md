@@ -49,7 +49,7 @@ Whenever the emergency input is asserted, the controller immediately switches to
 The design was verified using a dedicated Verilog testbench in Xilinx Vivado Behavioral Simulation. Waveforms were analyzed to confirm correct state transitions, emergency handling and signal timing.
 
 ## Simulation Waveform
-![Simulation](simulation.png)
+![Simulation](simulation_waveform.png)
 
 ## Author
 Sachita Reddy
